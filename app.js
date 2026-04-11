@@ -1,1 +1,1 @@
-console.log("App started a min ago");
+console.log("App started a long ago");
