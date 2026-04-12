@@ -1,1 +1,1 @@
-console.log('Frontend UI');
+console.log("Frontend UI Interface");
