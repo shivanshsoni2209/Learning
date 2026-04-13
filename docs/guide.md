@@ -1,1 +1,1 @@
-Project Guide
+Project Guide Manual
