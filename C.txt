@@ -1,1 +1,1 @@
-This is new file created by me in feature branch.
+This is new file created by me in master branch.
