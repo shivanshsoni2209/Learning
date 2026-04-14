@@ -1,5 +1,0 @@
-
-This is a file created by me in master branch.
-
-This is a file created in master branch and modified in feature2 branch.
-

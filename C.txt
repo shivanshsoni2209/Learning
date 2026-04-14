@@ -1,2 +1,0 @@
-This is new file created by me in master branch.
-This is an illustration of merge.
